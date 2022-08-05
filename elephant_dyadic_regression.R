@@ -53,4 +53,3 @@ library(bayesplot)
 # Parameters on logit scale
 hist(dyadic_regression_fit$draws("alpha"))
 hist(dyadic_regression_fit$draws("beta"))
-

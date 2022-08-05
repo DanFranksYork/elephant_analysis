@@ -31,3 +31,4 @@ model {
   alpha ~ normal(-1.5, 2);
   beta ~ normal(0, 0.5);
 }
+
